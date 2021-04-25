@@ -4,7 +4,7 @@
 
 <p align="center"> 
   我的 Github 访问次数统计<br>
-  <img src="https://profile-counter.glitch.me/windmill0503/count.svg" /> /*只需将二级目录替换为自己的 Github 名称即可*/
+  <img src="https://profile-counter.glitch.me/windmill0503/count.svg" />
 </p>
 <!--
 **yuag/yuag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
